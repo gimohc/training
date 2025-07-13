@@ -8,3 +8,4 @@
 
 [JSF/ SPRING BOOT / application.properties ignored](https://github.com/gimohc/JSF-spring)
 
+[Thymeleaf / NO PROPERTIES](https://github.com/gimohc/thymeleaf/tree/master)
